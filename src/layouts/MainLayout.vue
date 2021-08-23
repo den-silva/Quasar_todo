@@ -38,35 +38,27 @@
               </q-item-section>
             </q-item>
 
-            <q-item active clickable v-ripple>
+            <q-item to="/" active clickable v-ripple>
               <q-item-section avatar>
-                <q-icon name="star" />
+                <q-icon name="list" />
               </q-item-section>
 
               <q-item-section>
-                Star
+                Todo list
               </q-item-section>
             </q-item>
 
-            <q-item clickable v-ripple>
+            <q-item to="/help" clickable v-ripple>
               <q-item-section avatar>
-                <q-icon name="send" />
+                <q-icon name="help" />
               </q-item-section>
 
               <q-item-section>
-                Send
+                Help
               </q-item-section>
             </q-item>
 
-            <q-item clickable v-ripple>
-              <q-item-section avatar>
-                <q-icon name="drafts" />
-              </q-item-section>
-
-              <q-item-section>
-                Drafts
-              </q-item-section>
-            </q-item>
+            
           </q-list>
         </q-scroll-area>
 
