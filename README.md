@@ -1,6 +1,5 @@
 ![Gif_proj](https://user-images.githubusercontent.com/39094014/131825477-bc5777b1-ae90-4157-84ad-73b2728c17d1.gif)
 
-
 # Quasar_todo (todo)
 
 A Quasar Framework app
