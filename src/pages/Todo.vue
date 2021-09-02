@@ -82,6 +82,7 @@ export default {
         title:this.newTask,
         done:false
       })
+      this.newTask = ''
     }
   }
 }
